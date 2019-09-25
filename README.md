@@ -1,0 +1,2 @@
+# home
+hlavní adresář
